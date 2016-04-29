@@ -4,7 +4,7 @@
 #
 Name     : rubygem-httpclient
 Version  : 2.7.1
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/httpclient-2.7.1.gem
 Source0  : https://rubygems.org/downloads/httpclient-2.7.1.gem
 Summary  : No detailed summary available

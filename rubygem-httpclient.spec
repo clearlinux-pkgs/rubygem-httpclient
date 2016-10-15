@@ -4,7 +4,7 @@
 #
 Name     : rubygem-httpclient
 Version  : 2.8.2.4
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/httpclient-2.8.2.4.gem
 Source0  : https://rubygems.org/downloads/httpclient-2.8.2.4.gem
 Summary  : No detailed summary available
